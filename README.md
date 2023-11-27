@@ -3,20 +3,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/joshmasterton/blab>
+  <a href="https://github.com/joshmasterton/gossyp-api>
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Blab-api</h3>
+<h3 align="center">Gossyp-api</h3>
 
   <p align="center">
-     Blabber away securely for free
+     Gossyp away securely for free
     <br />
-    <a href="https://github.com/joshmasterton/blab">View Demo</a>
+    <a href="https://github.com/joshmasterton/gossyp-api">View Demo</a>
     ·
-    <a href="https://github.com/joshmasterton/blab/issues">Report Bug</a>
+    <a href="https://github.com/joshmasterton/gossyp-api/issues">Report Bug</a>
     ·
-    <a href="https://github.com/joshmasterton/blab/issues">Request Feature</a>
+    <a href="https://github.com/joshmasterton/gossyp-api/issues">Request Feature</a>
   </p>
 </div>
 
@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Zonoverse][product-screenshot]](https://joshmasterton.github.io/blab)
+[![Zonoverse][product-screenshot]](https://joshmasterton.github.io/gossyp-api)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +67,7 @@
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/joshmasterton/blab/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/joshmasterton/gossyp-api/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +87,7 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt`
 
 Josh Masterton - [https://twitter.com/JoshMasterton] - joshmasterton@tuta.io
 
-Project Link: [https://github.com/joshmasterton/blab]
+Project Link: [https://github.com/joshmasterton/gossyp-api]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
