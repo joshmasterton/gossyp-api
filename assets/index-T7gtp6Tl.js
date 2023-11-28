@@ -103,14 +103,14 @@ Error generating stack: `+o.message+`
                 `,style:{paddingLeft:"3rem"}})]},r.inputId)),Q.jsx("button",{type:"button",className:`
               btn btn-${e} p-3 pt-2 pb-2
               mt-2 mb-2 w-100
-            `,style:{transition:"0s",maxWidth:"200px"},children:"Login"})]}),Q.jsx(cy,{lightMode:e,setLightMode:t}),Q.jsxs("div",{className:`
+            `,style:{transition:"0s",maxWidth:"200px"},children:"Login"})]}),Q.jsxs("div",{className:`
             d-flex align-items-center
             small
           `,children:[Q.jsx("div",{children:"Need an account?"}),Q.jsx(Wm,{to:"/signup",className:`
               link link-${e==="dark"?"light":"dark"}
               link-underline-opacity-0 m-0
               p-2 pt-1 pb-1 shadow-none border-0
-            `,children:"Signup"})]}),Q.jsx("div",{className:"p-1 pb-2"})]})})}function VC({lightMode:e,setLightMode:t}){const n=[{inputId:"email",inputType:"email",placeholder:"Email",placeholderImg:"bi-envelope-fill"},{inputId:"username",inputType:"text",placeholder:"Username",placeholderImg:"bi-person-fill"},{inputId:"password",inputType:"password",placeholder:"Password",placeholderImg:"bi-lock-fill"},{inputId:"confirmPassword",inputType:"password",placeholder:"Confirm Password",placeholderImg:"bi-lock-fill"}];return Q.jsx("form",{className:`
+            `,children:"Signup"})]}),Q.jsx(cy,{lightMode:e,setLightMode:t}),Q.jsx("div",{className:"p-1 pb-2"})]})})}function VC({lightMode:e,setLightMode:t}){const n=[{inputId:"email",inputType:"email",placeholder:"Email",placeholderImg:"bi-envelope-fill"},{inputId:"username",inputType:"text",placeholder:"Username",placeholderImg:"bi-person-fill"},{inputId:"password",inputType:"password",placeholder:"Password",placeholderImg:"bi-lock-fill"},{inputId:"confirmPassword",inputType:"password",placeholder:"Confirm Password",placeholderImg:"bi-lock-fill"}];return Q.jsx("form",{className:`
         d-flex w-100 h-100
         justify-content-center
       `,children:Q.jsxs("div",{className:`
@@ -135,11 +135,11 @@ Error generating stack: `+o.message+`
                 `,style:{paddingLeft:"3rem"}})]},r.inputId)),Q.jsx("button",{type:"button",className:`
               btn btn-${e} p-3 pt-2 pb-2
               mt-2 mb-2 w-100
-            `,style:{transition:"0s",maxWidth:"200px"},children:"Login"})]}),Q.jsx(cy,{lightMode:e,setLightMode:t}),Q.jsxs("div",{className:`
+            `,style:{transition:"0s",maxWidth:"200px"},children:"Login"})]}),Q.jsxs("div",{className:`
             d-flex align-items-center
             small
           `,children:[Q.jsx("div",{children:"Have an account?"}),Q.jsx(Wm,{to:"/login",className:`
               link link-${e==="dark"?"light":"dark"}
               link-underline-opacity-0 m-0
               p-2 pt-1 pb-1 shadow-none border-0
-            `,children:"Login"})]}),Q.jsx("div",{className:"p-1 pb-2"})]})})}function _C(){const[e,t]=T.useState(Pc()),n=lw([{path:"/",element:Q.jsx(fh,{lightMode:e,setLightMode:t})},{path:"/login",element:Q.jsx(fh,{lightMode:e,setLightMode:t})},{path:"/signup",element:Q.jsx(VC,{lightMode:e,setLightMode:t})}],{basename:"/"});return Q.jsx(gw,{router:n})}const fy=document.documentElement;fy.setAttribute("data-bs-theme",Pc());document.getElementById("root").style.height="100%";fy.style.height="100%";document.body.style.height="100%";Gl.createRoot(document.getElementById("root")).render(Q.jsx(Rs.StrictMode,{children:Q.jsx(_C,{})}));
+            `,children:"Login"})]}),Q.jsx(cy,{lightMode:e,setLightMode:t}),Q.jsx("div",{className:"p-1 pb-2"})]})})}function _C(){const[e,t]=T.useState(Pc()),n=lw([{path:"/",element:Q.jsx(fh,{lightMode:e,setLightMode:t})},{path:"/login",element:Q.jsx(fh,{lightMode:e,setLightMode:t})},{path:"/signup",element:Q.jsx(VC,{lightMode:e,setLightMode:t})}],{basename:"/"});return Q.jsx(gw,{router:n})}const fy=document.documentElement;fy.setAttribute("data-bs-theme",Pc());document.getElementById("root").style.height="100%";fy.style.height="100%";document.body.style.height="100%";Gl.createRoot(document.getElementById("root")).render(Q.jsx(Rs.StrictMode,{children:Q.jsx(_C,{})}));
